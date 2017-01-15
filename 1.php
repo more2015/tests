@@ -2,4 +2,6 @@
 
 phpinfo();
 
+
+$id = $_GET
 ?>
